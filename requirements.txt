@@ -1,0 +1,5 @@
+flask
+chatterbot
+chatterbot_corpus
+spacy
+pyyaml
