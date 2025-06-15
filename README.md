@@ -18,8 +18,8 @@ Docker がインストールされていない場合は、(https://www.docker.co
 ### 2. イメージのビルドとコンテナの起動
 ターミナルでプロジェクトディレクトリに移動し、以下のコマンドを実行します。
 
-docker build -t chatbot .
-docker run -p 5000:5000 chatbot
+-docker build -t chatbot .
+-docker run -p 5000:5000 chatbot
 　
 ### 3. ブラウザでアクセス
 
